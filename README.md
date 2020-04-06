@@ -24,7 +24,7 @@ Introduction to Automated Feature Engineering  (tsfresh/featuretools)
 #### Supervised Learning Part 4 (*In Progress*)
 
 Providing the right Evaluation Metrics to clients 
-Integrating everything together – Guidelines to follow
+Integrating everything together – Guidelines to follow 
 
 ## Deployment 
 (*In Progress*)
