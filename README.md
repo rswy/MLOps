@@ -1,14 +1,17 @@
 # MLOps Tutorial Series (Part 1) - Optimizing Machine Learning Pipelines 
+
+
+
+## Automation 
 *In Progress*
 
-
-## Automation
-
-#### Supervised Learning Part 1
-Introduction to AUTOML
+#### Supervised Learning Part 1 
+Introduction to AUTOML  
+*Jupyter Notebook : MLAutomation\MLAutomationParts1And2.ipynb*
 Tutorial on H2O and TPOT implementation
 #### Supervised Learning Part 2
 Model Interpretability
+*Jupyter Notebook : MLAutomation\MLAutomationParts1And2.ipynb*
 Prediction Intervals for Regression Problems
 #### Supervised Learning Part 3
 Introduction to Automated Feature Engineering  (tsfresh/featuretools)
