@@ -19,14 +19,17 @@ Prediction Intervals for Regression Problems
 ###### *Slides : MLOps Series (Part 1) Slides/Supervised Learning Part 2 – Model Interpretability & Prediction Intervals.pptx*
 
 
-#### Supervised Learning Part 3 (Automation of Feature Engineering) *In Progress*
+#### Supervised Learning Part 3 (Automation of Feature Engineering) 
+*In Progress*
 Introduction to Automated Feature Engineering  (tsfresh/featuretools)
 
-#### Supervised Learning Part 4 *In Progress*
+#### Supervised Learning Part 4 
+*In Progress*
 Providing the right Evaluation Metrics to clients 
 Integrating everything together – Guidelines to follow
 
-## Deployment *In Progress*
+## Deployment 
+*In Progress*
 #### Deployment: I have a model, what next?
 ##### Deployment Considerations
   Scalability
