@@ -19,7 +19,7 @@ Prediction Intervals for Regression Problems
 
 ###### *Jupyter Notebook : MLAutomation/MLAutomationParts1And2.ipynb*
 
-###### *Slides : MLOps Series (Part 1) Slides/Supervised Learning Part 2 – Model Interpretability & Prediction Intervals.pptx.pptx*
+###### *Slides : MLOps Series (Part 1) Slides/Supervised Learning Part 2 – Model Interpretability & Prediction Intervals.pptx*
 
 
 #### Supervised Learning Part 3
