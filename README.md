@@ -1,5 +1,6 @@
-# MLOps Tutorial Series
-Optimizing Machine Learning Pipelines
+# Optimizing Machine Learning Pipelines - Tutorial Series
+*In Progress*
+
 
 ## Automation
 
